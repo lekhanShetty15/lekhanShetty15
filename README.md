@@ -1,5 +1,8 @@
 
 ![Blue Geometric Illustration Graphic Designer LinkedIn Banner](https://github.com/lekhanShetty15/lekhanShetty15/assets/159422559/92ec5544-106f-4502-b02b-c6dc3f0fe855)
+---
+[![](https://visitcount.itsvg.in/api?id=lekhanshetty15&icon=0&color=4)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🌱 I’m currently learning NextJs , React Native<br><br>💬 Ask me about MERN , JavaScript , Figma<br><br>📫 How to reach me lekhanshetty49@gmail.com<br><br>⚡ Fun fact There are three responses to a piece of design yes, no, and WOW! Wow is the one to aim for.
 
@@ -17,7 +20,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=lekhanshetty15&icon=0&color=4)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
