@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning NextJs , React Native<br><br>💬 Ask me about MERN , JavaScript , Figma,ASP.NET,ASP.NET CORE,C#,SQL SERVER<br><br>📫 How to reach me lekhanshetty49@gmail.com<br><br>⚡ Fun fact There are three responses to a piece of design yes, no, and WOW! Wow is the one to aim for.
+🌱 I’m currently learning NextJs , React Native<br><br>💬 Ask me about Angular , JavaScript , Figma , ASP.NET , ASP.NET CORE , C# , SQL SERVER , MVC , WEB API<br><br>📫 How to reach me lekhanshetty49@gmail.com<br><br>⚡ Fun fact There are three responses to a piece of design yes, no, and WOW! Wow is the one to aim for.
 
 
 ## 🌐 Socials:
